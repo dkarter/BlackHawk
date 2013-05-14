@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'capybara'
 require 'capybara/dsl'
-require 'highline/import'
+
 require_relative 'course'
 
 Capybara.run_server = false
