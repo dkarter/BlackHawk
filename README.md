@@ -16,5 +16,5 @@ TODO:
 - download lecture videos
 
 
-Uses OO and is Open Source for educational purposes only.
+Uses OO Ruby scripting and is Free/Open Source for educational purposes only.
 I assume no liability over what you do with this tool. Use it at your own risk.
